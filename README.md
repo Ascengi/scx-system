@@ -1,2 +1,10 @@
 # scx-system
-ini adalah AI sederhana milik saya dan belum saya sempurnakan dan di versi ini masih mengandung error di cmd tunggu updatenya 
+scx system buatan saya ini untuk belajar saja bukan untuk pamer,jadi script ini khusus untuk termux saja saya akan membuat versi cmd dan versi linux di repositori yang akan datang
+
+
+<b>cara install</b>
+anda hanya membutuhkan bahasa python saja
+
+<b>$pkg install python</b>
+
+dan jalankan menggunakan perintah bash,yaitu <b>bash main.sh</b>
