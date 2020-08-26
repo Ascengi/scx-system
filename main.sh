@@ -6,7 +6,6 @@ read -p 'masukan password: ' userinput1;
 #
 if [ "${userinput1:-}" = "Daisha" ]
 then
-	cd mod
 	python  scx.py
 fi
 if [ "${userinput1:-}" != "Daisha" ]
