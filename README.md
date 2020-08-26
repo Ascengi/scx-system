@@ -1,4 +1,4 @@
-# scx-system
+#scxt
 scx system buatan saya ini untuk belajar saja bukan untuk pamer,jadi script ini khusus untuk termux saja saya akan membuat versi cmd dan versi linux di repositori yang akan datang
 
 
